@@ -1,10 +1,20 @@
-# React Skeleton
+# 💀 React Skeleton 🦴
 
-This is an example application bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The demo version of the application is deployed on Digital Ocean App Platform and be viewed at https://react-skeleton-5fxxo.ondigitalocean.app.
+This is a bare bones react application bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The demo version of the application is deployed on Digital Ocean App Platform and be viewed at https://react-skeleton-5fxxo.ondigitalocean.app.
 
 See DO's tutorial [How To Deploy a React Application to DigitalOcean App Platform](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-react-application-to-digitalocean-app-platform) for step-by-step instructions for deploying apps build with Create React App on DO App Platform.
 
-## Available Scripts
+## Getting Started
+
+Clone the repository
+
+### `git clone https://github.com/jtorreggiani/react-skeleton.git`
+
+Install depedencies
+
+### `npm install`
+
+## Development
 
 In the project directory, you can run:
 
