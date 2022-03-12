@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Skeleton
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an example application bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
