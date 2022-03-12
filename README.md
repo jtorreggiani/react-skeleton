@@ -1,6 +1,6 @@
 # React Skeleton
 
-This is an example application bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an example application bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The demo version of the application is deployed on Digital Ocean App Platform and be viewed at https://react-skeleton-5fxxo.ondigitalocean.app.
 
 ## Available Scripts
 
